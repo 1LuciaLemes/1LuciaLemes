@@ -9,6 +9,7 @@
 </div>
 
 ---
+## 💻 Sobre mí
 Estudiante de Ingeniería en Computación y Full Stack Developer, con especial interés y mayor experiencia práctica en desarrollo frontend. Me gusta crear aplicaciones web funcionales, intuitivas y atractivas, buscando que las soluciones sean claras y útiles para quienes las utilizan.
 
 Actualmente estoy profundizando mis conocimientos en desarrollo backend, bases de datos y APIs para continuar creciendo como desarrolladora Full Stack.
