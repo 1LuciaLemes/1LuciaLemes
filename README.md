@@ -1,8 +1,12 @@
+<div align="center">
+
 # Lucía Lemes
 
 ### Frontend Developer | Full Stack Developer
 
 [LinkedIn](https://www.linkedin.com/in/lucia-lemes/) · [Email](mailto:lemeslucya@gmail.com)
+
+</div>
 
 ---
 Estudiante de Ingeniería en Computación y Full Stack Developer, con especial interés y mayor experiencia práctica en desarrollo frontend. Me gusta crear aplicaciones web funcionales, intuitivas y atractivas, buscando que las soluciones sean claras y útiles para quienes las utilizan.
