@@ -56,7 +56,7 @@ Diseñé y desarrollé la interfaz, definiendo la identidad visual, sistema de n
 
 **Tecnologías:** Astro, React, TypeScript, Tailwind CSS, Git, GitHub, Vercel.
 
-[🌐 Ver Portfolio](https://portfolio-seven-hazel-24.vercel.app) · [💻 Ver repositorio](TU_REPOSITORIO)
+[🌐 Ver Portfolio](https://portfolio-seven-hazel-24.vercel.app) · [💻 Ver repositorio](https://github.com/1LuciaLemes/portfolio)
 
 ### Globalance
 
