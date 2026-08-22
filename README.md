@@ -4,7 +4,7 @@
 
 ### Frontend Developer | Full Stack Developer
 
-[LinkedIn](https://www.linkedin.com/in/lucia-lemes/) · [Email](mailto:lemeslucya@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/lucia-lemes/) • [Email](mailto:lemeslucya@gmail.com) • [Portfolio](https://portfolio-seven-hazel-24.vercel.app)
 
 </div>
 
@@ -47,6 +47,16 @@ Actualmente estoy profundizando mis conocimientos en desarrollo backend, bases d
 ---
 
 ## 🚀 Proyectos destacados
+
+### 🌌 Portfolio — Orbital
+
+Portfolio profesional actualmente en desarrollo y mejora continua, desarrollado con Astro, React y Tailwind CSS, con una experiencia visual inspirada en el espacio y una navegación inmersiva.
+
+Diseñé y desarrollé la interfaz, definiendo la identidad visual, sistema de navegación, animaciones e interacciones para crear una experiencia diferenciada de portfolio tradicional.
+
+**Tecnologías:** Astro, React, TypeScript, Tailwind CSS, Git, GitHub, Vercel.
+
+[🌐 Ver Portfolio](https://portfolio-seven-hazel-24.vercel.app) · [💻 Ver repositorio](TU_REPOSITORIO)
 
 ### Globalance
 
