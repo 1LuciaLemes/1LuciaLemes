@@ -70,7 +70,7 @@ También implementé datos y servicios mock para permitir el desarrollo independ
 
 **Tecnologías:** React, TypeScript, Vite, Tailwind CSS, React Router, React Context, Firebase, APIs REST, Vitest, Recharts, Git, Vercel.
 
-[Ver repositorio](https://github.com/Globallink-Studio/Frontend-Globalance)
+[Ver proyecto](https://main-eta-jet.vercel.app) · [Ver repositorio](https://github.com/Globallink-Studio/Frontend-Globalance)
 
 ---
 
@@ -86,7 +86,7 @@ También implementé el envío de un correo electrónico después de confirmar u
 
 **Tecnologías:** React, JavaScript, HTML, CSS, React Router, React Context, Firebase, Amazon S3, Git, GitHub.
 
-[Ver repositorio](https://github.com/1LuciaLemes/ProyectoM5_LuciaLemes)
+[Ver proyecto](https://proyecto-m5-lucia-lemes.vercel.app) · [Ver repositorio](https://github.com/1LuciaLemes/ProyectoM5_LuciaLemes)
 
 ---
 
@@ -100,7 +100,7 @@ El proyecto también cuenta con diseño responsive y pruebas automatizadas.
 
 **Tecnologías:** JavaScript, HTML, CSS, Google Gemini AI, Vercel Functions, Vitest, Vercel.
 
-[Ver repositorio](https://github.com/1LuciaLemes/ProyectoM3_LuciaLemes)
+[Ver proyecto](https://proyecto-m3-lucia-lemes.vercel.app) · [Ver repositorio](https://github.com/1LuciaLemes/ProyectoM3_LuciaLemes)
 
 ---
 
