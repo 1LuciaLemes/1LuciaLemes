@@ -86,7 +86,7 @@ También implementé el envío de un correo electrónico después de confirmar u
 
 **Tecnologías:** React, JavaScript, HTML, CSS, React Router, React Context, Firebase, Amazon S3, Git, GitHub.
 
-[Ver proyecto](https://proyecto-m5-lucia-lemes.vercel.app) · [Ver repositorio](https://github.com/1LuciaLemes/ProyectoM5_LuciaLemes)
+[Ver proyecto](https://proyecto-m5-lucia-lemes.vercel.app) · [Ver repositorio](https://github.com/1LuciaLemes/ProyectoM5_LuciaLemes/tree/redesign)
 
 ---
 
