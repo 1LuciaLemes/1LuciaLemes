@@ -73,6 +73,21 @@ También implementé datos y servicios mock para permitir el desarrollo independ
 [Ver proyecto](https://main-eta-jet.vercel.app) · [Ver repositorio](https://github.com/Globallink-Studio/Frontend-Globalance)
 
 ---
+### Task System
+
+Aplicación web para la gestión de tareas en equipo, con un tablero de tareas y subtareas anidadas de múltiples niveles, reordenamiento por arrastrar y soltar, filtros, búsqueda global y seguimiento del avance mediante progreso ponderado y resumen de esfuerzo por estado.
+
+Desarrollé integralmente la aplicación, trabajando en las interfaces, componentes, navegación, el tablero jerárquico, los formularios de alta y edición y el flujo de trabajo, tanto en el frontend como en la API que lo respalda.
+
+Construí el proyecto como un monorepo en TypeScript: un frontend en React y un backend con API REST en Node.js y Express, organizado en capas (rutas, controladores, servicios y repositorios). Los tipos y las validaciones del dominio se comparten entre ambas partes mediante un paquete común, para que las reglas de negocio sean consistentes de punta a punta.
+
+Implementé la persistencia en memoria por defecto y su variante en PostgreSQL, pruebas automatizadas en backend y frontend, un pipeline de integración continua y el despliegue de la aplicación (frontend en Vercel y backend en Render).
+
+**Tecnologías:** TypeScript, React, Node.js, Express, PostgreSQL, Tailwind CSS, Vite, npm workspaces, Vitest, Docker, GitHub Actions, Vercel, Render, Git, GitHub.
+
+[Ver proyecto](https://lucia-taskflow.vercel.app) · [Ver repositorio](https://github.com/1LuciaLemes/lucia-taskflow)
+
+---
 
 ### Ecommerce de perfumes
 
